@@ -1,3 +1,4 @@
+from ccs.model import ExchangeRate
 from ccs.util import jsonify
 
 class CurrencyConversionController:

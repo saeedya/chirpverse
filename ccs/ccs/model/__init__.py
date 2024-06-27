@@ -1,0 +1,1 @@
+from ccs.model.currency import ExchangeRate
